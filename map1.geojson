@@ -17,6 +17,7 @@
     {
       "type": "Feature",
       "properties": {
+       "zzz":"WWW",
         "name": "My house",
         "description": "*simple star for italic*\n**double star for bold**\n# one hash for main heading\n## two hashes for second heading\n### three hashes for third heading\nSimple link: [[http://example.com]]\nLink with text: [[http://example.com|text of the link]]\nImage: {{http://jidanni.org/images/20100428xindian100.jpg}}\n"
       },
