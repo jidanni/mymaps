@@ -1,20 +1,25 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "Dinagat Islands"
-  }
-}
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [120.86620, 24.18169, ]
-  },
-  "properties": {
-    "name": "My house"
-  }
+    "type": "FeatureCollection",
+    "features": [
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [125.6, 10.1]
+	    },
+	    "properties": {
+		"name": "Dinagat Islands"
+	    }
+	},
+	{
+	    "type": "Feature",
+	    "geometry": {
+		"type": "Point",
+		"coordinates": [120.86620, 24.18169]
+	    },
+	    "properties": {
+		"name": "My house"
+	    }
+	}
+    ]
 }
