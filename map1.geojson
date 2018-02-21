@@ -8,3 +8,13 @@
     "name": "Dinagat Islands"
   }
 }
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [120.86620, 24.18169, ]
+  },
+  "properties": {
+    "name": "My house"
+  }
+}
